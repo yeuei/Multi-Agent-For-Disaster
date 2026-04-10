@@ -38,7 +38,7 @@
 ## 项目结构
 
 ```
-Plan_Module/
+Multi-Agent/
 ├── src/
 │   ├── agent/              # 主图：规划、调度和综合
 │   ├── LawRag_Subgraph/    # 法律法规 RAG 智能体（检索 + 重排序 + 生成）
