@@ -6,7 +6,8 @@
 
 系统遵循 **规划-执行-综合** 范式：
 
-<img width="2358" height="1032" alt="image" src="https://github.com/user-attachments/assets/1e922152-fd91-4295-a46f-caaa142421ae" />
+<img width="2630" height="1144" alt="image" src="https://github.com/user-attachments/assets/343a9d13-836e-4eeb-b954-11610c94337e" />
+
 
 ### 核心工作流程
 
